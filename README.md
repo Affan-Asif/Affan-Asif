@@ -47,4 +47,3 @@ CSE (AI & ML) graduate from MJCET Hyderabad (CGPA 9.06) building end-to-end AI s
 
 `Python` `Dart` `JavaScript` `SQL` · `PyTorch` `TensorFlow` `OpenCV` `YOLOv8/v11` `MediaPipe` · `Gemini` `Stable Diffusion` `LoRA` `RLHF` `RAG` `LangChain` `MCP` · `FastAPI` `Flask` `WebSockets` `Supabase` · `Flutter`
 
-![Affan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Affan-Asif&show_icons=true&theme=tokyonight)
