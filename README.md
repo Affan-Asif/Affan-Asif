@@ -33,7 +33,8 @@ CSE (AI & ML) graduate from MJCET Hyderabad (CGPA 9.06) building end-to-end AI s
 - **[Money Mapper](https://github.com/Affan-Asif/Money_Mapper)** — Cross-border transaction risk & fee intelligence · [Live](https://money-mapper-datanyx.netlify.app/)
 - **[BOOMMM](https://github.com/Affan-Asif/BOOMMM)** — MS Teams clone: multi-user video calls + synced chat · [Live](https://boommm-4nuq.onrender.com/)
 - **[Outbound Calling Agent](https://github.com/Affan-Asif/OutBound-Calling-Agent)** — AI cold-calling agent with live dashboard
-- **[YouTube Video Downloader](https://github.com/Affan-Asif/Youtube-Video-Downloader)** — [Chrome Web Store extension](https://chromewebstore.google.com/detail/ecpdekefgdnkfnejnmlpongihbobfail)
+- **[YouTube Video Downloader](https://github.com/Affan-Asif/Youtube-Video-Downloader)** — download YouTube videos with a clean UI
+- **ChatGPT Share to PDF** — Chrome extension to export ChatGPT conversations as PDFs · [Chrome Web Store](https://chromewebstore.google.com/detail/ecpdekefgdnkfnejnmlpongihbobfail)
 - **Games:** [Blink-a-Word](https://github.com/Affan-Asif/blink-a-word-game) (blink-controlled, MediaPipe) · [AI Drawing Challenge](https://github.com/Affan-Asif/AI-Drawing-Challenge) · [Whack-a-Mole](https://github.com/Affan-Asif/Whack-a-mole) (CV-controlled) · [Flappy Bird](https://github.com/Affan-Asif/flappy-bird) ([play](https://affan-asif.github.io/flappy-bird/))
 
 ## 🏆 Highlights
@@ -47,3 +48,4 @@ CSE (AI & ML) graduate from MJCET Hyderabad (CGPA 9.06) building end-to-end AI s
 
 `Python` `Dart` `JavaScript` `SQL` · `PyTorch` `TensorFlow` `OpenCV` `YOLOv8/v11` `MediaPipe` · `Gemini` `Stable Diffusion` `LoRA` `RLHF` `RAG` `LangChain` `MCP` · `FastAPI` `Flask` `WebSockets` `Supabase` · `Flutter`
 
+![Affan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Affan-Asif&show_icons=true&theme=tokyonight)
